@@ -1,7 +1,7 @@
  
-# test
+# MyProject
 
-![License](https://img.shields.io/badge/License-MIT-blue.svg)
+![License](https://img.shields.io/badge/License-GLI-blue.svg)
 
 Table of Contents:
 * [Description](#Description)
@@ -14,29 +14,29 @@ Table of Contents:
 
 ## Description
 
-test
+It is a super useful application
 
 ## Installation
 
-test
+Simply download and it's ready to use!
 
 ## Usage
 
-test
+Very easy to use
 
 ## Contributing
 
-test
+Anyone can contribute
 
 ## Tests
 
-test
+Very easy to test
 
 ## License 
 
-This project is under the MIT license.
+License of MyProject: GLI
 
 ## Questions
 
-Have any questions? Please send them to test.
-This project's code can be viewed at https://github.com/test.
+Have any questions? Please send them to mlfitz2@gmail.com.
+This project's code can be viewed at https://github.com/mlfitz2.
