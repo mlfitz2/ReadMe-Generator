@@ -1,7 +1,7 @@
  
 # test
 
-![License](https://img.shields.io/badge/License-Amazon-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 Table of Contents:
 * [Description](#Description)
@@ -34,7 +34,7 @@ test
 
 ## License 
 
-This project is under the Amazon license.
+This project is under the MIT license.
 
 ## Questions
 

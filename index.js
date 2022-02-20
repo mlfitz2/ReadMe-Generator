@@ -56,48 +56,7 @@ const questions = () => {
     ]);
 };
 
-const generateFile = ({name, description, installation, usage, contributing, tests, license, email, github}) =>
-` 
-# ${name}
 
-Table of Contents:
-* [Description](#Description)
-* [Installation](#Installation)
-* [Usage](#Usage)
-* [Contributing](#Contributing)
-* [Tests](#Tests)
-* [License](#License)
-* [Questions](#Questions)
-
-## Description
-
-${description}
-
-## Installation
-
-${installation}
-
-## Usage
-
-${usage}
-
-## Contributing
-
-${contributing}
-
-## Tests
-
-${tests}
-
-## License 
-
-This project is under the ${license} license.
-
-## Questions
-
-Have any questions? Please send them to ${email}.
-This project's code can be viewed at https://github.com/${github}.
-`;
 
 const init = () => {
     questions()
